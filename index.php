@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <tittle>Pagina web</tittle>
-    </head>
-    <body>
-        <?php
-        require 'menu.php';
-		
+	<head>
+		<meta charset="UTF-8">
+		<title>Mi pagina web</title>
+	</head>
+	<body>
 
-	echo "<h1>Bienvenido a la página principal</h1>"
-        ?>
+		<?php require 'menu.php'; ?>
+		<h1>Bienvenido a la página principal de ejercicios</h1>
+
 	</body>
 </html>
-        
